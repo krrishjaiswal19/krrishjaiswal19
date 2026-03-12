@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**krrishjaiswal19/krrishjaiswal19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer  
+🚀 Currently learning Java Backend & DSA  
+📚 BCA Student  
+🌱 Building projects with React & Java  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+Frontend:
+HTML | CSS | JavaScript | React
+
+Backend:
+Java (Learning) | REST APIs
+
+Programming:
+C++ | Java
+
+Tools:
+Git | GitHub | VS Code
+
+---
+
+## 📂 Projects
+
+🔹 React Projects  
+
+
+🔹 Java Backend Projects  
+
+
+🔹 DSA Practice  
+
+
+---
+
+
+## 🎯 Current Focus
+
+- Mastering DSA with C++
+- Learning Java Backend
+- Building Full Stack Projects
