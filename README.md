@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Krrish jaiswal 👋
 
 💻 Aspiring Software Engineer  
 🚀 Currently learning Java Backend & DSA  
