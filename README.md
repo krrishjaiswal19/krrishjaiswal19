@@ -2,7 +2,7 @@
 
 💻 Aspiring Software Engineer  
 🚀 Currently learning Java Backend & DSA  
-📚 BCA Student  
+📚 Computer science Student  
 🌱 Building projects with React & Java  
 
 ---
@@ -10,13 +10,13 @@
 ## 🛠 Tech Stack
 
 Frontend:
-HTML | CSS | JavaScript | React
+HTML | CSS | JavaScript | React | Tailwind 
 
 Backend:
 Java (Learning) | REST APIs
 
 Programming:
-C++ | Java
+C++ | Java (Learning)
 
 Tools:
 Git | GitHub | VS Code
