@@ -25,13 +25,7 @@ Git | GitHub | VS Code
 
 ## 📂 Projects
 
-🔹 React Projects  
-
-
-🔹 Java Backend Projects  
-
-
-🔹 DSA Practice  
+🔹 My-portfolio website  
 
 
 ---
