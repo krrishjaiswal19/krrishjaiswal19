@@ -19,7 +19,7 @@ Programming:
 C++ | Java (Learning)
 
 Tools:
-Git | GitHub | VS Code
+Git | GitHub | VS Code | SQL
 
 ---
 
