@@ -1,39 +1,74 @@
 # Hi, I'm Krrish jaiswal 👋
 
-💻 Aspiring Software Engineer  
-🚀 Currently learning Java Backend & DSA  
-📚 Computer science Student  
-🌱 Building projects with React & Java  
+## Aspiring Data Analyst | SQL | Power BI | Python
+
+I am a BCA student passionate about Data Analytics and solving real-world business problems using data.  
+Currently learning and building projects in SQL, Power BI, Excel, Python, and AI-powered analytics.
 
 ---
 
-## 🛠 Tech Stack
+## Skills
 
-Frontend:
-HTML | CSS | JavaScript | React | Tailwind 
-
-Backend:
-Java (Learning) | REST APIs
-
-Programming:
-C++ | Java (Learning)
-
-Tools:
-Git | GitHub | VS Code | SQL | Power BI
+- SQL
+- Power BI
+- Excel
+- Python
+- Pandas
+- Data Visualization
+- Data Cleaning
+- Business Analytics
 
 ---
 
-## 📂 Projects
+## Tools & Technologies
 
-🔹 My-portfolio website 
-🌐 Live Demo: (https://krrish-jaiswal.vercel.app/)
+- PostgreSQL
+- Power BI
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
+
+---
+
+## Current Focus
+
+- Building real-world analytics projects
+- Improving SQL and Python skills
+- Learning AI tools for analytics
+- Creating interactive dashboards
+
+---
+
+## Featured Projects
+
+### Sales Analytics Dashboard
+- Built interactive Power BI dashboard
+- Analyzed revenue, profit, and customer trends
+- Used SQL for data extraction
+
+### Customer Churn Analysis
+- Identified customer retention patterns
+- Performed data cleaning using Python
+- Created visual insights dashboard
+
+### YouTube Analytics Project
+- Analyzed video performance metrics
+- Compared Shorts vs Long-form content
+- Generated audience engagement insights
+
+---
+
+## Learning Goals for 2026
+
+- Advanced SQL
+- Machine Learning Basics
+- AI-Powered Analytics
+- Business Intelligence
 
 
 ---
 
+## Motto
 
-## 🎯 Current Focus
+> “Turning data into meaningful insights.”
 
-- Mastering DSA with C++
-- Learning Java Backend
-- Building Full Stack Projects
