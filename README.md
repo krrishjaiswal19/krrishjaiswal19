@@ -1,6 +1,6 @@
 # Hi, I'm Krrish jaiswal 👋
 
-## Aspiring Data Analyst | SQL | Power BI | Python
+## Data Analyst | SQL | Power BI | Excel
 
 I am a BCA student passionate about Data Analytics and solving real-world business problems using data.  
 Currently learning and building projects in SQL, Power BI, Excel, Python, and AI-powered analytics.
