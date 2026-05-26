@@ -39,21 +39,7 @@ Currently learning and building projects in SQL, Power BI, Excel, Python, and AI
 
 ---
 
-## Featured Projects
 
-### Sales Analytics Dashboard
-- Built interactive Power BI dashboard
-- Analyzed revenue, profit, and customer trends
-- Used SQL for data extraction
-
-### Customer Churn Analysis
-- Identified customer retention patterns
-- Performed data cleaning using Python
-- Created visual insights dashboard
-
-### YouTube Analytics Project
-- Analyzed video performance metrics
-- Compared Shorts vs Long-form content
 - Generated audience engagement insights
 
 ---
