@@ -5,7 +5,7 @@
 
 
 
-## Skills
+## Skill
 
 - SQL
 - Power BI
