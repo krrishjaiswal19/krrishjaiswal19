@@ -8,7 +8,7 @@
 ## Skill
 
 - SQL
-- Power BI
+- Power B
 - Excel
 - Python
 - Pandas
