@@ -14,7 +14,7 @@
 - Pandas
 - Data Visualization
 - Data Cleaning
-- Business Analytics
+- Business Analytic
 
 ---
 
