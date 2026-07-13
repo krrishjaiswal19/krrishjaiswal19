@@ -11,7 +11,7 @@
 - Power 
 - Excel
 - Python
-- Pandas
+- Panda
 - Data Visualization
 - Data Cleaning
 - Business Analytic
