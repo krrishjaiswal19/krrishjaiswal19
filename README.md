@@ -7,7 +7,7 @@
 
 ## Skill
 
-- SQL
+- SQl
 - Power 
 - Excel
 - Python
